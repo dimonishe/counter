@@ -1,14 +1,4 @@
-<div align="center">
-    
-        <img src="http://simplehitcounter.com/hit.php?uid=2073872&f=16777215&b=0"
-             border="0" height="18" width="83" alt="web counter">
-    
-</div>
-
-
-
 <?php
-session_start();
 
 class Counter{
     
